@@ -1,8 +1,6 @@
-# Learn Jenkins! Complete Jenkins Course - Zero to Hero - Notes
+# Learn Jenkins! Complete Jenkins Course - Zero to Hero - Docker Notes
 
-## Docker
-
-### Build doker image
+## Build doker image
 
 Basic command
 
@@ -22,7 +20,7 @@ Example:
 docker build -t python-agent
 ```
 
-### Upload image to Docker Hub
+## Upload image to Docker Hub
 
 Repository must exists and should be avaliable
 
